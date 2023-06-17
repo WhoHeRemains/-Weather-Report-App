@@ -1,2 +1,2 @@
 # -Weather-Report-App
-Weather app having upto 7 day's
+This app gives Weather updates upto 7 day's
